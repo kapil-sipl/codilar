@@ -1,4 +1,4 @@
-# glowlane
+# Project Name - Glowlane (dummy for now)
 
 ## Project setup
 
